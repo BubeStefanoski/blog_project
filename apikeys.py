@@ -1,1 +1,0 @@
-django_secret_key_api='django-insecure-@vz+bq4a1_#nv=3%th3w(f9lpja-8awkxq2#p6=4y*kw_y+3ug'
